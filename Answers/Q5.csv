@@ -1,0 +1,834 @@
+area,total_restaurants
+Rohini,257
+Chembur,208
+Kothrud,149
+"Andheri East",135
+Navrangpura,132
+Indiranagar,130
+Kurla,129
+Koramangala,124
+Bidhannagar,123
+"Ashok Nagar",118
+"Banjara Hills",113
+"Santacruz East",110
+Athwa,99
+Vastrapur,94
+"Himayath Nagar",92
+Powai,91
+Perambur,89
+"Shivaji Nagar",75
+"Marol Sakinaka",74
+Adajan,74
+"Anna Nagar",73
+"Salt Lake",73
+Shivajinagar,72
+"Central Bangalore",71
+"Koregaon Park",69
+"Lake Town",69
+"Kothapet & Dilsukhnagar",65
+Ballygunge,64
+Kondhwa,64
+Piplod,64
+Bhowanipore,63
+"Central Kolkata",63
+"Paschim Vihar",62
+Kilpauk,58
+Egmore,57
+Himayatnagar,54
+Basavanagudi,54
+"Saki Naka",53
+Erandwane,52
+"South Kolkata",52
+Nungambakkam,51
+Ellisbridge,50
+Jayanagar,49
+Aundh,49
+"Scruz Bandra East",49
+"Thousand Lights",48
+Kalighat,47
+Malleshwaram,47
+Alwarpet,45
+Maninagar,45
+"Nallakunta & Vidyanagar",45
+"Ghatkopar East",43
+Mylapore,42
+Taltala,41
+Annanagar,40
+Purasaiwakkam,39
+Rajajinagar,38
+"T. Nagar",38
+Sion,37
+"Pitam Pura",36
+Swargate,36
+Royapettah,35
+Camp,34
+Kodambakkam,34
+"George Town",34
+Ameerpet,33
+"Bandra Area",31
+Teynampet,31
+Uppal,31
+Jadavpur,31
+Dumdum,31
+"Kalyani Nagar",30
+Varachha,30
+Naranpura,30
+"Park Street Area",29
+Wanowrie,29
+Bibwewadi,28
+Vadapalani,27
+"T Nagar",27
+Alipore,26
+Baner,25
+Kothapet,25
+"Karve Nagar",25
+"Kurla West",25
+Beleghata,25
+"Ghatkopar West",25
+"Bandra East",25
+Paldi,25
+Ambawadi,25
+Charminar,25
+Burrabazar,25
+"Ruby Area",25
+Kasba,24
+Memnagar,24
+Koti,23
+Abids,23
+Dhankawadi,23
+"Powai Area",22
+Golpark,22
+Khairtabad,22
+Kankurgachi,22
+"Khar West",22
+Mehdipatnam,22
+Isanpur,22
+Purasawalkam,22
+Domlur,21
+"Pulikeshi Nagar",21
+Elgin,21
+"Toli Chowki",21
+Vesu,21
+"Ghatkopar Vikhroli",21
+"Deccan Gymkhana",20
+"Matunga Wadala",20
+Gariahat,19
+Narayanguda,19
+"Sector 7 Rohini",19
+Kachiguda,19
+"Sadashiv Peth",19
+"Annanagar East",19
+"Old Washermanpet",19
+"Dum Dum",18
+Choolaimedu,18
+Tangra,18
+Chennai,18
+Arumbakkam,18
+"Tagore Garden Extension",18
+"University Area",18
+Punjagutta,17
+Dilsukhnagar,17
+Gopalapuram,17
+"New Alipore",17
+"Sinhgad Road",17
+Matunga,17
+Triplicane,17
+Begampura,17
+"Sion Bhakti Park",17
+Tolichowki,17
+"Rajouri Garden",17
+"Vasanth Nagar",16
+"Jodhpur Park",16
+Topsia,16
+"Narayan Peth",16
+Behala,16
+Nsp,16
+"Paldi & Ambawadi",16
+"Anand Nagar",15
+Laldarwaja,15
+"Basheer Bagh",14
+"Punjabi Bagh",14
+Bkc,14
+Warje,14
+Baranagar,14
+"New Malakpet",14
+Kestopur,14
+"Santoshnagar & Saidabad",14
+"Gandhi Nagar",13
+Ayanavaram,13
+Nanpura,13
+"Viman Nagar",13
+Amberpet,12
+"Mohammed Wadi",12
+"East Kolkata Township",12
+Machuabazar,12
+Entally,12
+"Raja Annamalai Puram",12
+Paikpara,12
+Kavadiguda,12
+"Gulbai Tekra",12
+Gopipura,12
+Begumpet,12
+Vastral,12
+"Frazer Town",12
+Shantinagar,12
+Banashankari,11
+"New Nallakunta",11
+Pashan,11
+"Sector 8 Rohini",11
+Aminjikarai,11
+"West Mambalam",11
+Kolkata,11
+Nampally,11
+Majestic,11
+Khokhra,11
+Sarthana,11
+"Prahlad Nagar",11
+"Sivanchetti Gardens",10
+"Richmond Town",10
+"Antop Hill",10
+"Shyam Bazar",10
+Chetpet,10
+"Sector 9 Rohini",10
+Seshadripuram,10
+Kodungaiyur,10
+Baguihati,10
+"Parvati Paytha",10
+Tollygunge,10
+"Shanti Nagar",10
+"New Tippasandra",9
+Somajiguda,9
+"Shalimar Bagh",9
+"Cit Nagar",9
+Kalina,9
+"Vadgaon Budruk",9
+"Old Malakpet",9
+Ahmedabad,9
+Vishrantwadi,9
+"Lal Darwaja",9
+"Shenoy Nagar",9
+Chickpet,9
+Jogupalya,8
+Mumbai,8
+Beniapukur,8
+Lakdikapul,8
+Shankarapura,8
+"Barabazar Market",8
+"Wadgaon Sheri",8
+Sangamvadi,8
+Gokhalenagar,8
+"Maharshi Nagar",8
+Adugodi,8
+"Lake Gardens",8
+"Padmarao Nagar",8
+"Jodhpur Village",8
+"New Magdalla",8
+"Kuber Nagar",8
+Surat,8
+"Parvat Patiya",8
+"Sector V Salt Lake",8
+Sanitytestarea,8
+Adikmet,7
+"Bhawani Peth",7
+Habsiguda,7
+"Prashant Vihar Rohini",7
+Yerawada,7
+Tiljala,7
+"Tilak Nagar",7
+Sinthee,7
+Haltu,7
+Usmanpura,7
+Ejipura,7
+Satellite,7
+"Nana Varachha",7
+"North Dumdum",7
+"Somajiguda & Khairtabad",7
+"Tarnaka  Nacharam & Malkajigiri",7
+Chandkheda,7
+Kodihalli,6
+"Masab Tank",6
+Ramgopalpet,6
+"Agarkar Nagar",6
+Redhills,6
+Pitampura,6
+"Visharant Wadi",6
+"Sector 10 Rohini",6
+"Ramesh Nagar",6
+Tarnaka,6
+Bodakdev,6
+"Budh Vihar",6
+Asalpha,6
+Gurukul,6
+"Santosh Nagar",6
+Royapuram,6
+Chamrajpet,6
+"Moti Nagar",6
+Periyamet,6
+Villivakkam,6
+"Narotam Nagar",6
+Vishala,6
+Khadia,6
+"Shukrawar Peth",6
+"Tarnaka Nacharam & Malkajigiri",6
+"Vishal Nagar",6
+"Vishnu Garden",5
+Esplanade,5
+"West Marredpally",5
+Garfa,5
+Gultekdi,5
+Poongavanapuram,5
+"Huda Complex",5
+"Shaniwar Peth",5
+"Sector 3 Rohini",5
+"Balavinayagar Nagar",5
+Gobra,5
+"Bandra West",5
+"Ashok Vihar",5
+Saidabad,5
+"Modi Colony",5
+Shahpur,5
+"Ghansi Bazaar",5
+"Jam Bagh",5
+Wanwadi,5
+Srirampura,5
+"Annamalai Colony",5
+Dharavi,5
+Ghatkopar,5
+Hatibagan,5
+"Adajan Patiya",5
+Ponniammanmedu,5
+Udhna,5
+Santacruz,5
+Magarpatta,5
+Narolgam,5
+"Mota Varachha",5
+"Sampangi Rama Nagar",5
+"Film Nagar",4
+"Adarsh Nagar",4
+Karkhana,4
+Nagole,4
+Mundhwa,4
+"Langford Gardens",4
+Hadapsar,4
+"Sector 11 Rohini",4
+Shobhabazar,4
+"Anna Nagar West Extension",4
+Lullanagar,4
+Chiriamore,4
+Bopodi,4
+"Rasta Peth",4
+"South Dumdum",4
+"Ramdev Nagar",4
+Ulsoor,4
+Malakpet,4
+Tiretti,4
+Dhakuria,4
+"Humayun Nagar",4
+Santoshpur,4
+"Govandi East",4
+Cossipore,4
+"Raja Bazar",4
+Choolai,4
+Vijayanagar,4
+Umarwada,4
+"Guru Nanak Nagar",4
+Hyderabad,4
+Amroli,4
+Sangvi,4
+Gaddiannaram,4
+"Ganga Dham",4
+"Park Circus",4
+"Wilson Garden",4
+Sakivihar,4
+Shyamal,4
+"Kharkhana & Trimulgherry",4
+"Vikhroli West",4
+"Kondhwa Budruk",4
+"Nava Vadaj",4
+"Cox Town",4
+Koyambedu,4
+Baguiati,4
+"Pal Gam",4
+"Patel Nagar",4
+"Abids & Koti",4
+Naroda,4
+Katargam,4
+"Sanjay Nagar",4
+Kalasiguda,3
+Nandanam,3
+Manicktala,3
+"Sector 14 Rohini",3
+"College Square",3
+Ganganagar,3
+Delhi,3
+Narhe,3
+"Bentinck St.",3
+"Old Sangvi",3
+"Range Hills",3
+Ultadanga,3
+"Tingre Nagar",3
+Juhapura,3
+Washermanpet,3
+Vyasarpadi,3
+Khanpur,3
+Sagrampura,3
+Bharthana,3
+Ghorpadi,3
+"Sanjeeva Reddy Nagar",3
+Jamalia,3
+Shahpore,3
+"Khatodra Wadi",3
+"Dahin Nagar",3
+Sayedpura,3
+"Sudhama Nagar",3
+Haripura,3
+Guttahalli,3
+Begampur,3
+Tondiarpet,3
+Jorasanko,3
+"Jubilee Hills",3
+Vatva,3
+"Navsari Bazaar",3
+"B.B.D. Bagh",3
+Bally,3
+Jorabagan,3
+"Sector 16 Rohini",3
+"Koregoan Park",3
+Feelkhana,3
+"Marol Maroshi Road",3
+"Kirti Nagar",3
+Juhu,3
+"Cunningham Road",3
+"R.T. Nagar",3
+Vanasthalipuram,3
+Kankaria,3
+"Majura Gate",3
+"Yamuna Nagar",3
+"Jashoda Nagar",3
+"Pankaj Nagar",3
+"Fc Road",2
+"Central Markt Punjabi Bagh",2
+Kotturpuram,2
+"Murad Nagar",2
+"Kasba Peth",2
+Mangawadi,2
+Bowbazar,2
+"Central Market Punjabi Bagh",2
+"Maniktala Main Rd",2
+"Santacruz West",2
+Chetla,2
+Selimpur,2
+Malleswaram,2
+Zamistanpur,2
+"Bn Reddy Nagar",2
+"Benson Town",2
+"Sector 2 Rohini",2
+"Lal Bazar",2
+"Sector 13 Rohini",2
+Kalas,2
+Danilimda,2
+"Salunkhe Vihar",2
+"New Mallepally",2
+Motera,2
+Thaltej,2
+Bowenpally,2
+Yousufguda,2
+Kolathur,2
+Khamasa,2
+Moghalpura,2
+Palanpur,2
+"Madannapet Colony",2
+"Sector 37",2
+Tala,2
+Sovabazar,2
+"Mahadev Nagar Tekra",2
+"Saijpur Bogha",2
+"Pathar Gatti",2
+"Victoria Layout",2
+"Sector 6 Rohini",2
+"Sector 1 Rohini",2
+Hedua,2
+"Sampangiram Nagar",2
+"Palanpur Patia",2
+Althan,2
+Marol,2
+Katraj,2
+Gowliguda,2
+"Asif Nagar",2
+Gowlipura,2
+Ahiritola,2
+Nacharam,2
+"Jivraj Park",2
+"Brindavan Colony",2
+Malkajgiri,2
+"New Gayatri Nagar",2
+Magdalla,2
+"Khar East",2
+Chanakyapuri,2
+"Tiruvalleeswarar Nagar",2
+Nagarathpete,2
+"Golconda Fort",2
+"Jodhpur Tekra",2
+"Sector 29",2
+Mandaveli,2
+"Sima Nagar",2
+"A.S. Rao Nagar & Sainikpuri",2
+Kidderpore,2
+"Jodhpur Cross Road",2
+Vidyanagar,2
+Janakpuri,2
+Kakurgachi,2
+Ghatlodia,2
+"Madhavaram - Manali",2
+Secunderabad,2
+"Brigade Road",2
+"Gautam Buddha Nagar",2
+"Salunkhe Vihar Road",2
+"Lake Market",2
+"New Area",2
+"Sector 15 Rohini",2
+"Raviwar Peth",2
+Gudimalkapur,2
+"Somwar Peth",2
+Navjivan,2
+Vikaspuri,2
+"Adajan Gam",2
+"Athwa Gate",2
+Parvati,2
+"New Textile Market",2
+Salabatpura,2
+"Gidc Naroda",2
+Uttran,2
+Hirabaugh,2
+Singanpor,2
+"Armane Nagar",2
+"Cooke Town",1
+"Commercial Street",1
+"Chandrapuri Colony",1
+Maniktala,1
+"Powaiandheri East",1
+"Near Rupbani Cinema",1
+"Near 7 Point Crossing",1
+Jayamahal,1
+"Madhura Nagar",1
+"Opp Padmashree Movie Hall",1
+"Sarat Bose Rd",1
+"Near City Centre 1 Petrol Pump",1
+"Shyambazar Crossing",1
+"Near Gurudas Park",1
+Sreebhumi,1
+"Sainik Vihar",1
+"Krishna Park Tilak Nagar",1
+"Mukti Nagar",1
+"Behra Enclave Paschim Vihar",1
+"Jyothi Nagar",1
+"Ruby Area  Kasba  East Kolkata Township",1
+"Central Banglore",1
+"Karam Pura",1
+"Kurla - Mumbai",1
+"Broad Street",1
+Sarvagnanagar,1
+"Sheela Vihar Colony",1
+"College Street",1
+"Anna Salai",1
+"Sastri Nager",1
+"Sri Hanuman Nagar Colony",1
+Chanchalguda,1
+"A Unit Of M/S Cohort  Ruby Area",1
+"Salt Lake Area",1
+"Jm Road",1
+"Subhash Nagar Petrol Pump",1
+"Uttam Nagar",1
+"Salt Lake City",1
+Bhadra,1
+"Block Gg1 Vikaspuri",1
+Vikhroli,1
+"Vijaya Nagar Colony",1
+"Sector 8  Rohini",1
+"Lal Darwaza",1
+Raikhad,1
+"Golf Green",1
+Aliabad,1
+"Langar Houz",1
+Khilwat,1
+"Koramangala - Bangalore",1
+"Punjab Bagh",1
+"Boudhanagar Colony",1
+"Hindustan Park",1
+"Azad Nagar",1
+"Budhwar Peth",1
+"Thirunagar Signal Vadapalani",1
+"Wadgaon Budruk Tilak Road",1
+"New Rander Road",1
+"Palanpur Jakatnaka",1
+Rander,1
+"Chowk Bazar",1
+Chandrayangutta,1
+Darulshifa,1
+Yakutpura,1
+Bhimrad,1
+"Express Avenue Mall",1
+Ambavadi,1
+"Tad Bun",1
+"Sector 51",1
+"Lnt Mall Musarambagh",1
+J.C.Nagar,1
+"Kapodra Patiya",1
+"Phoenix Mall",1
+"Mukherjee Nagar",1
+"Talab Katta",1
+"Shah-E-Alam Roja",1
+"Near Lal Gate Ramlal Bazarsapuipara",1
+Dapodi,1
+"Vijay Nagar Colony",1
+"Sector 73",1
+Dudheshwar,1
+"Katad Khana",1
+Balkampet,1
+Vakola,1
+"Sadar Bazaar",1
+"Jogeshwari East",1
+"Southern Avenue Gariahat",1
+"Kothapet & Dilshuknagar",1
+"Viveka Nagar",1
+Dabholi,1
+"Athwa Station Road",1
+"Mmda Colony",1
+"Drive In Road",1
+Someshwarpura,1
+"Broadway Mall",1
+"Purba Barisha",1
+"Narayan Nagar",1
+Sherkotda,1
+Sheshadripuram,1
+26,1
+"Sec-9 Rohini",1
+"Kiran Nagar",1
+Neelasandra,1
+Ranip,1
+"Garodia Nagar",1
+"Vile Parle",1
+"Pacific Mall Subhash Nagar",1
+"Dum Dum Park",1
+Jodhpur,1
+Bavdhan,1
+Acher,1
+Chintadripet,1
+Madhavaram,1
+"Ea Mall Royapettah",1
+Nagerbazar,1
+Kustia,1
+"Lb Nagar",1
+"Nava Naroda",1
+Santhome,1
+Paharganj,1
+"Kurla (W)",1
+Ambegaon,1
+Bosepukur,1
+Magob,1
+Shakurpur,1
+Nehrunagar,1
+"Rohini - Sector 16",1
+"Gunrock Enclave",1
+"Chudi Bazaar",1
+"Himayat Nagar",1
+Hakimpet,1
+"Patel  Nagar",1
+"Velly View Enclave",1
+"Ramnas Pura",1
+"Saki Naka   Andheri East",1
+"Huda Colony",1
+Peerzadiguda,1
+"Rt Nagar",1
+"Sector 8",1
+"Sri Sai Tarun Enclave",1
+Rajarhat,1
+Chintal,1
+"Wallace Garden",1
+Belgachia,1
+Moosarambagh,1
+Peravallur,1
+L.P.Savani,1
+"Sarkhej Road",1
+"Bandra Kurla Complex",1
+"Sarvodaya Colony",1
+"Nehru Stadium Dark Kitchen Metro Manor Sydenhams",1
+"Near Rto Pal Gam",1
+"Santacruz Bandra East",1
+Basaveshwaranagar,1
+"Lakdi Ka Pul",1
+"Chowpati  Athwa",1
+"Old Wasermenpet",1
+Battarahalli,1
+"Law College Road",1
+"Sion Koliwada",1
+"Lower Parel Worli",1
+"Dr.Radhakrishnan Salai-Mylapore",1
+"Kausar Baugh Nibm Road",1
+"Tolichowki Hps Kids School Opposite",1
+Halsuru,1
+"L.B Nagar",1
+Vasna,1
+Borough,1
+Sithaphalmandi,1
+"Srinivas Towers",1
+"Dhole Patil Road",1
+"Appa Balwant Chowk Pune",1
+"Mahalaxmi Rd",1
+"Bong Chinese Ruby Area",1
+"Wazirpur Industrial Area",1
+"Beltala Road",1
+"Girish Park",1
+"Bldg No15 /402  Aniket Building  Shivaji Nagar",1
+Pitampara,1
+"Rajouri Garden Extension",1
+Ekdalia,1
+"Sector -15",1
+"Safal Square Vesu",1
+"Salt Lake - Kolkata",1
+"Rani Bagh",1
+"Puna Patia",1
+"Ultadanga Telenga Bagan",1
+"Mantri Sqare Mall",1
+"Ra Puram",1
+"Matunga East",1
+"Manohar Pukur Road",1
+"Circus Avenue",1
+"Central Bengalore",1
+"Saki Vihar Road",1
+"Vv Puram",1
+Rabindrapally,1
+"Smarpally Kestopur",1
+"Lower Parel Area",1
+"Chinar Park",1
+"Ruby Park",1
+"Saltlake Sector 1",1
+"Rohini Sector 7",1
+"Church Street",1
+"Picnic Garden",1
+"Knk- Nungambakam (Cds)- Chennai",1
+"Kalina Ck",1
+"Residency Road",1
+"Cg Road",1
+"South West",1
+"Hyderguda Old Mla Home",1
+"Kankurgachi Kolkata",1
+"Andheri West Area",1
+"Santacruz East Mumbai.",1
+"Vardhman Premium Mall",1
+Pcmc,1
+"Lingarajapuram Kammanahalli",1
+"Nibm Post Office Road",1
+"Sainik Vihar Pritampura",1
+" Begumpet",1
+Banjarahills,1
+"Kurla East Nehru Nagar",1
+"Keshav Puram",1
+"Borough - Iii",1
+Somwarpeth,1
+"Sarat Park",1
+Dindoli,1
+"Fathima Nagar",1
+"The New Sion Co-Operative Housing Society",1
+"Chembur Colony",1
+"Ghatkopar Ck Mum",1
+Rammandir,1
+"Fdl_Scruz Bandra East",1
+"Gandhi Bazaar",1
+Ramkote,1
+"King Koti",1
+Bibvewadi,1
+"Kestopur Rabindrapally",1
+Musheerabad,1
+"Gaddi Annaram",1
+"Balaji Nagar",1
+"Krishna Nagar Colony",1
+Saligramam,1
+"Sai Nagar",1
+"Peeragarhi Camp",1
+Chilakalguda,1
+"Old Mla Quarters",1
+"Sector 4 Rohini",1
+Rajamohallah,1
+"Sector 5 Rohini",1
+Ramanthapur,1
+"3Rd Block Jayanagar",1
+"Venkateshwara Colony",1
+Gandhinagar,1
+"Secot 24Rohini",1
+Nallakunta,1
+"Sindhu Bhavan Road",1
+"Satara Road Bibvewadi",1
+"Ganesh Peth",1
+"Lord Sinha Rd",1
+Bhatha,1
+"Vip Road",1
+Naktala,1
+Valasaravakkam,1
+"Girdhar Nagar",1
+Madhupura,1
+Mahim,1
+Kalupur,1
+"Bhatar Athwa",1
+Ghodasar,1
+Yakhutpura,1
+"Takara Basthi",1
+"Gunti Jangaiah Nagar",1
+"Sardar Colony",1
+"Moonlight Cream Sagrampura",1
+"Laxmi Encleve - Katargam",1
+"Krishan Vihar",1
+Nangloi,1
+Odhav,1
+"Afzal Gunj",1
+"Begum Bazar",1
+"Old Wadaj",1
+Kadugondanahalli,1
+"Noble Nagar Tenament",1
+"Ganj Peth",1
+Narol,1
+"Cambridge Layout",1
+Hatkeshwar,1
+"Yoginagar Society",1
+Bapunagar,1
+"Ashok Bhai- Citylight",1
+Kg-Iii,1
+"Sri Durga Enclave",1
+"Pocket C-11 Sector 5 Rohini",1
+Gomtipur,1
+Nalgonda,1
+"Mg Road",1
+"Tri Nagar",1
+"Rani Gunj",1
+Rustampura,1
+"Ghod Dod Road",1
+"Jayanagar - 3Rd Block",1
+Amarpalli,1
+"Anna Nagar West",1
+"Kalyan Nagar X Roads",1
+"Mitul Square Piplod",1
+"Padma Nagar Colony",1
+"Rithala Rohini",1
+"Rabindra Sarovar",1
+Dhanakawadi,1
+"Kailash Plaza",1
+Mogappair,1
+"Prashant Vihar",1
+" Akhbar Nagar Circle",1
+Mogapair,1
+"Sri Nagar",1
+"Honey Park",1
+"Sector -6",1
+"Umra Jakat",1
+Bangur,1
+"Ghod Dod Road Sarelawadi",1
+"Uppal - Hyderabad",1
+"Bhavani Nagar Uppal - Hyderabad",1
+"Station Road Ghatkopar West",1
+Bhagal,1
+Jillelaguda,1
+"Sector 3",1
+Karvenagar,1
+Sagrampuraathwa,1
+"Sanjay Nagar New Bel Road",1
+"Panjarapole Cross Road",1
