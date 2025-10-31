@@ -48,7 +48,7 @@ Highlighted restaurants offering multiple cuisines, aiding marketing strategies.
 
 Analyzed relationships between price, ratings, and delivery time for business decisions.
 
-**Technologies Used**
+**Technologies Used**  
 
 
 MySQL / SQL Server
