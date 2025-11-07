@@ -88,5 +88,5 @@ WHERE food_type LIKE '%Mughlai%'
    OR food_type LIKE '%Chinese%' 
    OR food_type LIKE '%North Indian%'
 ORDER BY avg_ratings DESC
-LIMIT 10;
+LIMIT 10;  
 
